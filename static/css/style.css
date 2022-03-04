@@ -18,9 +18,9 @@ td{
 }
 
 .color1 {
-    background-color: var(--color1, red);
+    background-color: var(--color1);
 }
 
 .color2 {
-    background-color: var(--color2, black);
+    background-color: var(--color2);
 }
